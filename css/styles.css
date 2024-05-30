@@ -9,7 +9,7 @@ h1 {
   margin-bottom: -10px;
   padding: 0;
   position: relative;
-  margin-left: 20px;
+  margin-left: -10px;
   color: #5d2182;
   font-size: 50px;
   font-family: "Times New Roman", sans-serif, sans-serif;
@@ -20,7 +20,7 @@ h3 {
   margin-top: 5%;
   font-style: italic;
   color: #5d2182;
-  font-size: 13px;
+  font-size: 14px;
   font-family: "helvetica", sans-serif;
 }
 b {
@@ -37,7 +37,7 @@ i {
   margin: auto;
   height: 400px;
   overflow: auto;
-  padding: 30px;
+  padding: 20px;
   font-size: 12px;
 }
 hr {
