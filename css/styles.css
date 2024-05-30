@@ -1,6 +1,6 @@
 body {
   background-color: #f1e1f7;
-  color: #340f42;
+  color: #230933;
   font-family: "Times New Roman", serif, serif;
 }
 h1 {
@@ -10,7 +10,7 @@ h1 {
   padding: 0;
   position: relative;
   margin-left: 140px;
-  color: #bd8ccf;
+  color: #5d2182;
   font-size: 50px;
 }
 h3 {
@@ -18,21 +18,21 @@ h3 {
   text-align: center;
   margin-top: 5%;
   font-style: italic;
-  color: #bd8ccf;
+  color: #5d2182;
   font-size: 13px;
   font-family: "helvetica", sans-serif;
 }
 b {
-  color: #bd8ccf;
+  color: #5d2182;
 }
 i {
-  color: #bd8ccf;
+  color: #5d2182;
 }
 #main {
   background-color: white;
   border: solid 1px;
   width: 550px;
-  color: #bd8ccf;
+  color: #230933;
   margin: auto;
   height: 400px;
   overflow: auto;
