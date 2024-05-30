@@ -9,9 +9,10 @@ h1 {
   margin-bottom: -10px;
   padding: 0;
   position: relative;
-  margin-left: 40px;
+  margin-right: 140px;
   color: #5d2182;
   font-size: 50px;
+  font-family: "Times New Roman", sans-serif, sans-serif;
 }
 h3 {
   margin: auto;
@@ -36,8 +37,8 @@ i {
   margin: auto;
   height: 400px;
   overflow: auto;
-  padding: 20px;
-  font-size: 15px;
+  padding: 30px;
+  font-size: 12px;
 }
 hr {
   width: 250px;
